@@ -12,7 +12,7 @@
 - **Musical**
 - **War**
 
-### Rated G
+### **Parental guidance**: Rated G
 
 ### **Directors**
 - [**Tony Bancroft**](https://www.imdb.com/name/nm0051643/?ref_=tt_ov_dr)
