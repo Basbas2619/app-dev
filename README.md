@@ -1,2 +1,2 @@
 # **Mulan** 
-[Tux, the Linux mascot](/assets/images/tux.png)
+![Mulan](https://lumiere-a.akamaihd.net/v1/images/p_mulan_20529_83d3893a.jpeg)
