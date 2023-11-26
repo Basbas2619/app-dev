@@ -12,12 +12,15 @@
 - **Musical**
 - **War**
 
+### Rated G
+
 ### **Directors**
 - [**Tony Bancroft**](https://www.imdb.com/name/nm0051643/?ref_=tt_ov_dr)
 - [**Barry Cook**](https://www.imdb.com/name/nm0176905/?ref_=tt_ov_dr)
 
 ### **Important Characters and Actors**
 - [**Ming-Na Wen**](https://www.imdb.com/name/nm0001840/?ref_=tt_cl_t_1) *as* [*Mulan*](https://www.imdb.com/title/tt0120762/characters/nm0001840?ref_=tt_cl_c_1)
+  - [*Mulan*](https://www.imdb.com/title/tt0120762/characters/nm0001840?ref_=tt_cl_c_1) is the main character 
 - [**Eddie Murphy**](https://www.imdb.com/name/nm0000552/?ref_=tt_cl_t_2) *as* [*Mushu*](https://www.imdb.com/title/tt0120762/characters/nm0000552?ref_=tt_cl_c_2)
 - [**BD Wong**](https://www.imdb.com/name/nm0000703/?ref_=tt_cl_t_3) *as* [*Shang*](https://www.imdb.com/title/tt0120762/characters/nm0000703?ref_=tt_cl_c_3)
 - [**Miguel Ferrer**](https://www.imdb.com/name/nm0001208/?ref_=tt_cl_t_4) *as* [*Shan-yu*](https://www.imdb.com/title/tt0120762/characters/nm0001208?ref_=tt_cl_c_4)
