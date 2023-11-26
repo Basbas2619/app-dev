@@ -1,4 +1,4 @@
 # **Mulan (1988)** 
 ![Mulan](https://lumiere-a.akamaihd.net/v1/images/p_mulan_20529_83d3893a.jpeg)
 
->Mulan is a Disney movie that is been released on 1988
+>To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.
