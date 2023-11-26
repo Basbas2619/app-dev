@@ -6,3 +6,6 @@
 ### **Directors**
 - [**Tony Bancroft**](https://www.imdb.com/name/nm0051643/?ref_=tt_ov_dr)
 - [**Barry Cook**](https://www.imdb.com/name/nm0176905/?ref_=tt_ov_dr)
+
+### **Important Characters and Actors**
+- [**Ming-Na Wen**](https://www.imdb.com/name/nm0001840/?ref_=tt_cl_t_1) *as* [*Mulan*](https://www.imdb.com/title/tt0120762/characters/nm0001840?ref_=tt_cl_c_1)
